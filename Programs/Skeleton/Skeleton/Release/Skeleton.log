@@ -1,0 +1,32 @@
+﻿  framework.cpp
+  Skeleton.cpp
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(58): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(88): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(94): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(129): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(254): warning C4018: '<': signed/unsigned mismatch
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(256): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(374): warning C4018: '<': signed/unsigned mismatch
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(685): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(686): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(722): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(739): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\egyetem\4. félév\grafika\grafika3\programs\skeleton\skeleton\skeleton.cpp(803): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  41 of 435 functions ( 9.4%) were compiled, the rest were copied from previous compilation.
+    11 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton.vcxproj -> D:\Egyetem\4. félév\Grafika\grafika3\Programs\Skeleton\bin\Skeleton.exe
